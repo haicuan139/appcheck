@@ -24,3 +24,4 @@ http://app.xiaomi.com/details?id=com.your.package
 包名为:com.your.package
 
 
+如果你需要其他商店的检测功能，请给我留言
