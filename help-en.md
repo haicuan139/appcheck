@@ -1,4 +1,9 @@
 # Special Note: In order to receive notifications of the application in time, please enable notification on your client and set Allow Appcheck to run in the background.
+
+1. Android mobile phone Please open System Settings -> Application Management -> Application Launch Management, find Appcheck to cancel automatic management, check to allow background running
+2. Lock Appcheck in the recently opened app
+3. If other programs that manage hibernation are installed in the phone, please add Appcheck to the whitelist.
+
 # What is AppCheck?
 App is removed from the app store is a very annoying thing, because you may have multiple apps published in different app stores, your app may trigger some rules of the store, this time your app may be In order to deal with this situation, you need to use AppCheck.
 # Appcheck What features are available?
