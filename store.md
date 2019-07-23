@@ -1,4 +1,4 @@
-# 请在浏览器中打开你的应用下载页面
+# 请在浏览器中打开你的应用下载页面(Please open your app download page in your browser)
 # Google play 
 https://play.google.com/store/apps/details?id=com.google.android.apps.giant
 packagename：com.google.android.apps.giant
