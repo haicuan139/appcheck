@@ -1,5 +1,8 @@
 [View the English](https://github.com/haicuan139/appcheck/blob/master/help-en.md)
 # 特别注意：为了能够及时收到应用的通知，请在你的客户端开启通知权限，并且设定允许Appcheck在后台运行
+1.Android 手机请打开 系统设置->应用管理->应用启动管理，找到Appcheck 取消自动管理，勾选允许后台运行
+2.在最近打开的应用程序中锁定Appcheck
+3.若手机中安装了其他管理休眠的程序，请将Appcheck加入到白名单中
 # 什么是AppCheck?
 App在应用商店中被下架是一件很烦恼的事情，因为你可能有多个app在不同的应用商店发布，你的应用可能会触发商店的一些规则，这个时候你的应用可能会被下架,为了应对这种情况，你需要使用AppCheck。
 # Appcheck都提供什么功能？
