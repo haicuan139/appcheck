@@ -6,6 +6,8 @@ App在应用商店中被下架是一件很烦恼的事情，因为你可能有�
 - （主动检测）你可以通过菜单中的 checkapp按钮来进行主动检测
 - 你可以添加指定商店的应用程序进行检测
 # 如何获取商店的package name 和 appid
+  
+  [如何获取应用的appid 或 包名](https://github.com/haicuan139/appcheck/blob/master/store.md)
 # 如果应用中的商店不能满足你的需求，或者需要增加新的商店，请在您下载本应用的商店中反馈给我们。
 
 # 哪些用户会需要AppCheck?
