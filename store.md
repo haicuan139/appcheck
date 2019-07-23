@@ -26,3 +26,6 @@ packagename:com.your.package
 
 如果你需要其他商店的检测功能，请给我留言
 If you need detection from other stores, please leave a message
+
+
+[什么是SID?](https://github.com/haicuan139/appcheck/blob/master/apinotification.md)
