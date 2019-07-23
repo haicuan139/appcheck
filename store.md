@@ -28,4 +28,5 @@ packagename:com.your.package
 If you need detection from other stores, please leave a message
 
 
-[什么是SID?](https://github.com/haicuan139/appcheck/blob/master/apinotification.md)
+
+# [什么是sid?](https://github.com/haicuan139/appcheck/blob/master/apinotification.md)
