@@ -1,4 +1,5 @@
 [View the English](https://github.com/haicuan139/appcheck/blob/master/help-en.md)
+# 中国地区无需科学上网即可检测应用在线状态
 # 特别注意：为了能够及时收到应用的通知，请在你的客户端开启通知权限，并且设定允许Appcheck在后台运行
 1.Android 手机请打开 系统设置->应用管理->应用启动管理，找到Appcheck 取消自动管理，勾选允许后台运行
 2.在最近打开的应用程序中锁定Appcheck
