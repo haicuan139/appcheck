@@ -1,3 +1,5 @@
+ ![image](https://github.com/haicuan139/appcheck/blob/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
+# ----------------------------------------------
 # 请在浏览器中打开你的应用下载页面(Please open your app download page in your browser)
 # Google play 
 https://play.google.com/store/apps/details?id=com.google.android.apps.giant
