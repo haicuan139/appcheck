@@ -1,4 +1,5 @@
-(https://github.com/haicuan139/appcheck/blob/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
+ ![image](https://github.com/haicuan139/appcheck/blob/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
+# ----------------------------------------------
 [View the English](https://github.com/haicuan139/appcheck/blob/master/help-en.md)
 # 中国地区无需科学上网即可检测应用在线状态
 # 特别注意：为了能够及时收到应用的通知，请在你的客户端开启通知权限，并且设定允许Appcheck在后台运行
