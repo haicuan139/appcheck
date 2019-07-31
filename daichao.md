@@ -10,4 +10,5 @@ Android 客户端：启动页，Banner轮播图，分类，数据列表，详情
 你需要准备的：服务器，相关账户即可上架一款贷超App
 参考产品：UrVay，MasterVay，SuperVay
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!需要的老板来撩!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+############
 ![image](https://github.com/haicuan139/appcheck/blob/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
