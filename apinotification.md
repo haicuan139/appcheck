@@ -1,3 +1,6 @@
+ ![image](https://github.com/haicuan139/appcheck/blob/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
+# ----------------------------------------------
+
 # What is an API notification?
 - 当服务器检测到您有下架的应用时，我们的服务器会主请求用您配置的URL
 - 服务器请求您的URL时会携带以下架应用的数据
